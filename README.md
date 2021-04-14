@@ -1,7 +1,7 @@
 # Finance Automation Project
 
 Currently in progress  
-Using Python and Flask to create a web app with below goals.
+Using Python and Flask to create a web app with the below goals.  
 I'm using the blog web app created in [this tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) as a starting point.
 
 ## Potential Goals for Project
